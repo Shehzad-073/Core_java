@@ -1,7 +1,7 @@
 public class VariablesDemo {
-
-
+// variable is memory location where data is store
     static void main() {
+        
         int age;
         String name;
         
@@ -11,8 +11,9 @@ public class VariablesDemo {
 //        System.out.println(STR."Hello, \{name}. You are \{age} old");
         System.out.println("Hello," +name + " You are " + age +" old");
 
-        // CONSTANTS
+        // CONSTANTS Variable
         final int CONSTANT_VALUE = 25;
         
     }
 }
+
