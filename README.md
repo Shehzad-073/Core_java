@@ -33,4 +33,5 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add link later)
+- LinkedIn: 
+www.linkedin.com/in/muhammad-shehzad-b18290406
